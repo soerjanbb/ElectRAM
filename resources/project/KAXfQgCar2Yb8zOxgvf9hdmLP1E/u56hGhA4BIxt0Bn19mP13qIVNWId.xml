@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="requirements/Electram Requirements.slreqx" GroupUUID="default" Icon="" Name="Electram Requirements" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="712724a8-88d7-43d1-952a-d1bdd1ca68a5"/>
+</Info>
