@@ -1,4 +1,5 @@
 clear, clc, close all
 addpath requirements\
+slreq.open('Electram Requirements.slreqx')
 results = runtests(currentProject().RootFolder, 'IncludeSubfolders', true);
-table(results) % This displays a nice summary table of what passed
+table(results)
